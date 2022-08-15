@@ -54,7 +54,7 @@ console.log('staff', staffInfo)
           Bấm vào tên nhân viên để xem thông tin
         </CardFooter>
       </Card>
-    <h1>commit for fun</h1>
+
     </div>
     
   );
